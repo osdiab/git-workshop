@@ -1,7 +1,8 @@
 git-workshop
 ============
 
-Example project for the Stanford ACM git workshop, 10/23/2014
+Feedback project for the Stanford ACM git workshop, 10/23/2014. Serves as an example for people
+attending the workshop.
 
 # Feedback folder
 
