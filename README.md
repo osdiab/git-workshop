@@ -6,7 +6,7 @@ attending the workshop.
 
 # Feedback folder
 
-Please leave your feedback in `/feedback`!  Make a file in this format:
+Please leave your feedback in the `/feedback/` directory!  Make a file in this format:
 
 ```
 <username>_feedback.txt
